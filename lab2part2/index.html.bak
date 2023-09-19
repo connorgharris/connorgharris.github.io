@@ -33,7 +33,7 @@ lab 2 part 1 mozilla splash page
         position: relative;
       }
 
-      
+      /* Header styling */
 
       header {
         height: 150px;
@@ -52,7 +52,7 @@ lab 2 part 1 mozilla splash page
         margin: 0 0 0 32.5px;
       }
 
-      
+      /* main section and video styling */
 
       main {
         background: #ccc;
@@ -76,7 +76,7 @@ lab 2 part 1 mozilla splash page
         max-width: 100%;
       }
 
-      
+      /* further info links */
 
       .further-info {
         clear: left;
@@ -100,7 +100,7 @@ lab 2 part 1 mozilla splash page
         clear: both;
       }
 
-     
+      /* Red panda image */
 
       .red-panda img {
         display: block;
